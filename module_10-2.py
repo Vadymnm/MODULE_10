@@ -35,3 +35,5 @@ petya.start()
 
 vasya.join()
 petya.join()
+
+print('Все враги закончились - МЫ  ПОБЕДИЛИ !!!')
