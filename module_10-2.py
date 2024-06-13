@@ -27,8 +27,9 @@ class Knight(Thread):
                 print('------------------------------------------------')
 
 vasya = Knight(name='Vasya',skill=20)
+print(vasya)
 petya = Knight(name='Petya',skill=15)
-
+print(petya)
 print('-------------------------------------------')
 vasya.start()
 petya.start()
